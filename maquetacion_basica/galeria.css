@@ -1,0 +1,88 @@
+*{
+    margin: 0,;
+    padding: 0,;
+    box-sizing: border-box;
+}
+.container{
+    border: 3px;
+    height: 100vh;
+}
+.barra{
+    border: 3px solid black;
+    height: 10vh;
+    background-color: black;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+.container1{
+    /* border: 3px; */
+    height: 90vh;
+    width: 101%;
+
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.foto1{
+    /* border:3px; */
+    height: 50%;
+    width: 33%;
+}
+.foto2{
+    /* border:3px; */
+    height: 50%;
+    width: 33%;
+}
+.foto3{
+    /* border:3px; */
+    height:50%;
+    width: 33%;
+}
+.foto4{
+    /* border:3px; */
+    height: 50%;
+    width: 33%;
+}
+.foto5{
+    /* border:3px; */
+    height: 50%;
+    width: 33%;
+}
+.foto6{
+    /* border:3px; */
+    height: 50%;
+    width: 33%;
+}
+.foto1 img{
+    height: 100%;
+    width: 100%;
+}
+.foto2 img{
+    height: 100%;
+    width: 100%;
+}
+.foto3 img{
+    height: 100%;
+    width: 100%;
+}
+.foto4 img{
+    height: 100%;
+    width: 100%;
+}
+.foto5 img{
+    height: 100%;
+    width: 100%;
+}
+.foto6{
+    height: 100%;
+    width: 100%;
+}
+a{
+    text-align: center;
+    color: white;
+    text-decoration: none;
+}
+
